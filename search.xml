@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>「仙境脚本」NPC 清单合集</title>
+      <link href="/game/ro/npcs/readme/"/>
+      <url>/game/ro/npcs/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="触发器脚本"><a href="#触发器脚本" class="headerlink" title="触发器脚本"></a>触发器脚本</h2><table><thead><tr><th align="center">编号</th><th align="left">名称</th><th align="center">版本</th><th align="center">系列</th><th align="left">简介</th><th align="center">详情</th><th align="center">商店</th></tr></thead><tbody><tr><td align="center">1013</td><td align="left"><font color="red">任意 MVP BOSS 死亡通告</font></td><td align="center">v1.0</td><td align="center">rAthena 系列</td><td align="left">所有 MVP/BOSS 死亡后自动发送广播</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1013-bossannounce/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥100</code><br>· <a href="TODO">淘宝</a></td></tr><tr><td align="center">1014</td><td align="left"><font color="red">任意 MVP BOSS 击杀事件</font></td><td align="center">v1.2</td><td align="center">rAthena 系列</td><td align="left">所有 MVP/BOSS 死亡后自动发送广播，并随机掉落自定义奖励物品</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1014-killbossevent/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥300</code><br>· <a href="TODO">淘宝</a></td></tr><tr><td align="center">1015</td><td align="left"><font color="red">地图机遇事件</font></td><td align="center">v1.0</td><td align="center">rAthena 系列</td><td align="left">各个地图区域每小时随机发生机遇事件</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1015-chanceevent/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥100</code><br>· <a href="TODO">淘宝</a></td></tr></tbody></table><h2 id="活动类脚本"><a href="#活动类脚本" class="headerlink" title="活动类脚本"></a>活动类脚本</h2><table><thead><tr><th align="center">编号</th><th align="left">名称</th><th align="center">版本</th><th align="center">系列</th><th align="left">简介</th><th align="center">详情</th><th align="center">商店</th></tr></thead><tbody><tr><td align="center">1000</td><td align="left"><font color="red">OX 益智问答</font></td><td align="center">v1.0</td><td align="center">rAthena 系列</td><td align="left">经典多人在线活动：所有玩家每轮听题后、在限时内抢占「O」「X」区域，只有正确答案的区域才能进入下一关！谁能一直站到最后赢取大奖呢？</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1000-ox/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥500</code><br>· <a href="TODO">淘宝</a></td></tr><tr><td align="center">1008</td><td align="left"><font color="red">寻找蘑菇游戏</font></td><td align="center">v1.2</td><td align="center">rAthena 系列</td><td align="left">在随机地图中生成随机数量的蘑菇，玩家需要找到这些蘑菇并杀死它们才能获得奖品！</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1008-mushroom/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥100</code><br>· <a href="TODO">淘宝</a></td></tr><tr><td align="center">1009</td><td align="left"><font color="red">福利鸡抽奖</font></td><td align="center">v1.3</td><td align="center">rAthena 系列</td><td align="left">点击福利鸡并尝试以较低的价格取回物品。如果你失败了，他会用核武器、冰冻、石头，昏迷，或者让你睡着。</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1009-cluckers/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥100</code><br>· <a href="TODO">淘宝</a></td></tr><tr><td align="center">1010</td><td align="left"><font color="red">世界 BOSS 活动</font></td><td align="center">v3.5</td><td align="center">rAthena 系列</td><td align="left">召唤随机世界 Boss，击败后获得宝藏。领导者有权分配或处置战利品。Boss HP 每增加或减少 1,500,000，附近的玩家，每 10 秒更新一次。当 boss 被击败时，它将触发增加的经验和将速率降低到整个服务器 1 小时。</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1010-worldboss/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥1000</code><br>· <a href="TODO">淘宝</a></td></tr></tbody></table><h2 id="功能类脚本"><a href="#功能类脚本" class="headerlink" title="功能类脚本"></a>功能类脚本</h2><table><thead><tr><th align="center">编号</th><th align="left">名称</th><th align="center">版本</th><th align="center">系列</th><th align="left">简介</th><th align="center">详情</th><th align="center">商店</th></tr></thead><tbody><tr><td align="center">1001</td><td align="left"><font color="red">GM 手册</font></td><td align="center">v1.0</td><td align="center">rAthena 系列</td><td align="left">手册整合了 GM 常用的在线管理功能：控制中枢传送、系统管理终端、玩家管理终端、常用 GM 命令、获取必要补给、装备神之套装 等</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1001-gmbook/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥500</code><br>· <a href="TODO">淘宝</a></td></tr><tr><td align="center">1002</td><td align="left"><font color="red">玩家管理终端</font></td><td align="center">v1.0</td><td align="center">rAthena 系列</td><td align="left">整合了 GM 常用的在线管理玩家功能，包括但不限于授予/回收权限、金钱、点数、道具；以及杀死/复活/召唤/跟随/禁言/踢出/冻结/监禁/封禁/解禁玩家</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1002-playerterminal/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥500</code><br>· <a href="TODO">淘宝</a></td></tr><tr><td align="center">1003</td><td align="left"><font color="red">系统管理终端</font></td><td align="center">v1.0</td><td align="center">rAthena 系列</td><td align="left">整合了 GM 常用的在线管理系统功能，服务器倍率调整、服务器调试命令、服务器维护通知等</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1003-serverterminal/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥100</code><br>· <a href="TODO">淘宝</a></td></tr><tr><td align="center">1004</td><td align="left"><font color="red">监狱系统</font></td><td align="center">v1.3</td><td align="center">rAthena 系列</td><td align="left">一个简单的监狱惩罚脚本，它可以让囚犯振作起来。但随着监禁次数越多、惩罚会越来越重，犯人们能想出办法逃出生天吗？</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1004-prison/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥50</code><br>· <a href="TODO">淘宝</a></td></tr><tr><td align="center">1005</td><td align="left"><font color="red">查询职业代码</font></td><td align="center">v1.0</td><td align="center">rAthena 系列</td><td align="left">查询职业树的各个职业代码（支持四转）、扩展职业、杜兰族</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1005-queyjob/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥100</code><br>· <a href="TODO">淘宝</a></td></tr><tr><td align="center">1007</td><td align="left"><font color="red">自动吃药</font></td><td align="center">v1.0</td><td align="center">rAthena 系列</td><td align="left">玩家通过输入指令激活自动使用背包的回复道具</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1007-autopot/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥500</code><br>· <a href="TODO">淘宝</a></td></tr><tr><td align="center">1011</td><td align="left"><font color="red">BOSS 击杀广播</font></td><td align="center">v1.0</td><td align="center">rAthena 系列</td><td align="left">实时全服播报 BOSS 的击杀情况</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1011-bossbroadcast/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥50</code><br>· <a href="TODO">淘宝</a></td></tr><tr><td align="center">1012</td><td align="left"><font color="red">广播电台</font></td><td align="center">v1.0</td><td align="center">rAthena 系列</td><td align="left">全服广播电台，支持组队/公会/征友/自定义广播</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1012-broadcastclub/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥50</code><br>· <a href="TODO">淘宝</a></td></tr><tr><td align="center">1016</td><td align="left"><font color="red">卡普拉银行</font></td><td align="center">v1.3</td><td align="center">rAthena 系列</td><td align="left">支持玩家存款并按日计息</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1016-bankkafra/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥100</code><br>· <a href="TODO">淘宝</a></td></tr><tr><td align="center">1017</td><td align="left"><font color="red">卡 BUG 自助服务</font></td><td align="center">v1.0</td><td align="center">rAthena 系列</td><td align="left">自杀；删除身上图档丢失的 BUG 物品，主要针对客户端丢失图档的情况；清空身上所有物品；卸下身上所有装备</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1017-bugselfsvc/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥500</code><br>· <a href="TODO">淘宝</a></td></tr><tr><td align="center">1018</td><td align="left"><font color="red">安全拆卡老妖婆</font></td><td align="center">v1.0</td><td align="center">rAthena 系列</td><td align="left">安全拆除装备上的卡片</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1018-dismountcard/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥10</code><br>· <a href="TODO">淘宝</a></td></tr><tr><td align="center">1019</td><td align="left"><font color="red">神奇泉水</font></td><td align="center">v1.0</td><td align="center">rAthena 系列</td><td align="left">许愿之泉、治愈之泉、财富之泉、经验之泉</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1019-fountain/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥200</code><br>· <a href="TODO">淘宝</a></td></tr><tr><td align="center">1020</td><td align="left"><font color="red">城镇治愈师</font></td><td align="center">v1.0</td><td align="center">rAthena 系列</td><td align="left">波利波利？</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1020-healer/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥200</code><br>· <a href="TODO">淘宝</a></td></tr><tr><td align="center">1021</td><td align="left"><font color="red">会走路的波利</font></td><td align="center">v1.0</td><td align="center">rAthena 系列</td><td align="left">移动的波利 NPC，和它对话会随机掉落物品哦 ~ 似乎还是某个大型副本的关键 NPC 哦 ~</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1021-movepoli/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥100</code><br>· <a href="TODO">淘宝</a></td></tr><tr><td align="center">1022</td><td align="left"><font color="red">一键大师</font></td><td align="center">v1.0</td><td align="center">rAthena 系列</td><td align="left">一键满状态、超强状态、全身鉴定、全身修复、精炼+10/+15/+20、破产、暗杀，你能想到不能想到的功能，都一键实现！</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1022-onekeymaster/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥200</code><br>· <a href="TODO">淘宝</a></td></tr><tr><td align="center">1023</td><td align="left"><font color="red">托尼老师</font></td><td align="center">v1.0</td><td align="center">rAthena 系列</td><td align="left">衣服染色、头发染色、改变发型、变性、职业幻化</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1023-stylist/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥800</code><br>· <a href="TODO">淘宝</a></td></tr><tr><td align="center">1024</td><td align="left"><font color="red">WOE 控制器</font></td><td align="center">v1.0</td><td align="center">rAthena 系列</td><td align="left">专为 War of Emperium （即 GVG）设计的控制器</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1024-woe/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥800</code><br>· <a href="TODO">淘宝</a></td></tr><tr><td align="center">1025</td><td align="left"><font color="red">装备签名系统</font></td><td align="center">v1.0</td><td align="center">rAthena 系列</td><td align="left">在装备上签上你的名字</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1025-equipsigner/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥800</code><br>· <a href="TODO">淘宝</a></td></tr><tr><td align="center">1026</td><td align="left"><font color="red">装备洗炼系统</font></td><td align="center">v1.0</td><td align="center">rAthena 系列</td><td align="left">每次洗炼时，随机从 255 条中选择 1 个词条、随机赋予该词条的属性值。每件装备最多洗炼 5 个词条，可以反复洗炼</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1026-equippurify/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥800</code><br>· <a href="TODO">淘宝</a></td></tr></tbody></table><h2 id="传送类脚本"><a href="#传送类脚本" class="headerlink" title="传送类脚本"></a>传送类脚本</h2><table><thead><tr><th align="center">编号</th><th align="left">名称</th><th align="center">版本</th><th align="center">系列</th><th align="left">简介</th><th align="center">详情</th><th align="center">商店</th></tr></thead><tbody><tr><td align="center">1006</td><td align="left"><font color="red">GM 空间传送</font></td><td align="center">v1.0</td><td align="center">rAthena 系列</td><td align="left">传送到各个 GM 空间地图，包括内核、王座、殿外、花园、猎场、监狱，以便自定义分配各个封闭场所的权限</td><td align="center">· <a href="https://store.ragnarok.buzz/game/ro/npc/1006-warpgmroom/readme/">预览</a><br>· <a href="//player.bilibili.com/player.html?aid=xxxxxxxxx">视频</a></td><td align="center">· <code>￥100</code><br>· <a href="TODO">淘宝</a></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」地图机遇事件</title>
+      <link href="/game/ro/npc/1015-chanceevent/readme/"/>
+      <url>/game/ro/npc/1015-chanceevent/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1015</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">地图机遇事件</td></tr><tr><td align="center">脚本类型</td><td align="left">触发器</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v1.0</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥100</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><p>各个地图区域每小时随机发生机遇事件：</p><p>区域事件:</p><ol><li>落雪（掉落物品被掩埋）</li><li>雾霾（消声灭迹杀人夜）</li><li>落樱（玩家死亡无惩罚）</li><li>落叶（击杀魔物无经验）</li><li>烟花（玩家禁止放技能）</li><li>刮风（魔物玩家禁瞬移）</li></ol><p>世界事件:</p><ol><li>全服随机提高 N 倍经验</li><li>全服随机下降 N 倍经验</li></ol><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">-</td><td align="center">-</td><td align="left">-</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 触发器 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」神奇泉水</title>
+      <link href="/game/ro/npc/1019-fountain/readme/"/>
+      <url>/game/ro/npc/1019-fountain/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1019</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">神奇泉水</td></tr><tr><td align="center">脚本类型</td><td align="left">功能类</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v1.0</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥200</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><ol><li>首都北门-许愿之泉</li><li>首都南门-治愈之泉</li><li>首都东门-财富之泉</li><li>首都西门-经验之泉</li></ol><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">-</td><td align="center">-</td><td align="left">-</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 功能类 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」城镇治愈师</title>
+      <link href="/game/ro/npc/1020-healer/readme/"/>
+      <url>/game/ro/npc/1020-healer/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1020</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">城镇治愈师</td></tr><tr><td align="center">脚本类型</td><td align="left">功能类</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v1.0</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥200</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><p>  波利波利？</p><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">-</td><td align="center">-</td><td align="left">-</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 功能类 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」装备洗炼系统</title>
+      <link href="/game/ro/npc/1026-equippurify/readme/"/>
+      <url>/game/ro/npc/1026-equippurify/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1026</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">装备洗炼系统</td></tr><tr><td align="center">脚本类型</td><td align="left">功能类</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v1.0</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥800</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><p>洗炼装备需要消耗若干个洗炼券。</p><p>洗炼规则如下：</p><ol><li>洗炼是完全随机</li><li>装备洗炼不会损坏</li><li>每件装备洗炼的次数无限制</li><li>洗炼的词条随机从 255 条中选择</li><li>每件装备最多同时洗炼 5 个词条</li><li>可以用新的词条覆盖旧的词条</li><li>洗炼词条取值范围是随机的</li><li>不同代价，可以进行不同等级的洗炼</li><li>越高级的洗炼，词条的属性值取值范围上下限越高</li><li>可以越级洗炼</li></ol><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">-</td><td align="center">-</td><td align="left">-</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 功能类 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」装备签名系统</title>
+      <link href="/game/ro/npc/1025-equipsigner/readme/"/>
+      <url>/game/ro/npc/1025-equipsigner/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1025</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">装备签名系统</td></tr><tr><td align="center">脚本类型</td><td align="left">功能类</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v1.0</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥800</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><p>在装备上签上你的名字，条件：</p><ol><li>签名券 x1</li><li>装备无洞</li></ol><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">-</td><td align="center">-</td><td align="left">-</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 功能类 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」卡普拉银行</title>
+      <link href="/game/ro/npc/1016-bankkafra/readme/"/>
+      <url>/game/ro/npc/1016-bankkafra/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1016</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">卡普拉银行</td></tr><tr><td align="center">脚本类型</td><td align="left">功能类</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v1.3</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥100</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><p>支持玩家存款并按日计息</p><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.3</td><td align="center">CRO-Dev-Team</td><td align="left">修正错误的重复名称</td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.2</td><td align="center">CRO-Dev-Team</td><td align="left">设置最大收益为 100,000z. 避免当改变服务器时间的时候对 Zeny 的漏洞利用</td></tr><tr><td align="center">v1.1</td><td align="center">CRO-Dev-Team</td><td align="left">添加银行业务记录</td></tr><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 功能类 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」GM 手册</title>
+      <link href="/game/ro/npc/1001-gmbook/readme/"/>
+      <url>/game/ro/npc/1001-gmbook/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1001</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">GM 手册</td></tr><tr><td align="center">脚本类型</td><td align="left">功能类</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v1.0</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥500</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><p>手册整合了 GM 常用的在线管理功能:</p><ol><li>控制中枢传送</li><li>系统管理终端: 倍率调整、命令调试、停机维护公告 等</li><li>玩家管理终端: 授予/回收权限、金钱、点数、道具，杀死/复活/召唤/跟随/禁言/踢出/冻结/监禁/封禁/解禁玩家 等</li><li>常用 GM 命令: 改变职业、满级满状态、无敌、回复 HP/SP/AP、获取金钱/点数/道具 等</li><li>获取必要补给</li><li>装备神之套装</li></ol><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">-</td><td align="center">-</td><td align="left">-</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 功能类 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」卡 BUG 自助服务</title>
+      <link href="/game/ro/npc/1017-bugselfsvc/readme/"/>
+      <url>/game/ro/npc/1017-bugselfsvc/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1017</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">卡 BUG 自助服务</td></tr><tr><td align="center">脚本类型</td><td align="left">功能类</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v1.0</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥500</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><ol><li>自杀（处理被传送卡图等情况）</li><li>删除身上图档丢失的 BUG 物品，主要针对客户端丢失图档的情况：<ul><li>通过 @autoloot 自动拾取把缺失图档的物品捡到背包</li><li>因物品图档缺失，打开道具窗口时会跳窗异常，确认后游戏可正常运行</li><li>因物品图档缺失，拖拽时会触发客户端崩溃异常，无法卖掉、扔掉、或存仓</li></ul></li><li>清空身上所有物品（已装备的或在仓库不影响）</li><li>卸下身上所有装备</li></ol><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">-</td><td align="center">-</td><td align="left">-</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 功能类 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」玩家管理终端</title>
+      <link href="/game/ro/npc/1002-playerterminal/readme/"/>
+      <url>/game/ro/npc/1002-playerterminal/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1002</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">玩家管理终端</td></tr><tr><td align="center">脚本类型</td><td align="left">功能类</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v1.0</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥500</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><p>整合了 GM 常用的在线管理玩家功能:</p><ol><li>授予/回收权限、金钱、点数、道具</li><li>杀死/复活/召唤/跟随/禁言/踢出/冻结/监禁/封禁/解禁玩家</li></ol><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">-</td><td align="center">-</td><td align="left">-</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 功能类 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」查询职业代码</title>
+      <link href="/game/ro/npc/1005-queyjob/readme/"/>
+      <url>/game/ro/npc/1005-queyjob/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1005</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">查询职业代码</td></tr><tr><td align="center">脚本类型</td><td align="left">功能类</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v1.0</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥100</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><p>查询职业代码（支持四转）</p><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">-</td><td align="center">-</td><td align="left">-</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 功能类 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」系统管理终端</title>
+      <link href="/game/ro/npc/1003-serverterminal/readme/"/>
+      <url>/game/ro/npc/1003-serverterminal/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1003</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">系统管理终端</td></tr><tr><td align="center">脚本类型</td><td align="left">功能类</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v1.0</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥100</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><p>整合了 GM 常用的在线管理系统功能:</p><ol><li>服务器倍率调整</li><li>服务器调试命令</li><li>服务器维护通知（自动关闭服务器）</li></ol><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">-</td><td align="center">-</td><td align="left">-</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 功能类 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」监狱系统</title>
+      <link href="/game/ro/npc/1004-prison/readme/"/>
+      <url>/game/ro/npc/1004-prison/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1004</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">监狱系统</td></tr><tr><td align="center">脚本类型</td><td align="left">功能类</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v1.3</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥50</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><p>一个简单的监狱惩罚脚本，它可以让囚犯振作起来。<br>此脚本使用了卡普拉银行的余额，让囚犯可以缴纳罚金离开监狱，<br>但随着监禁次数越多、罚款会越来越多。<br>当然如果没钱的话，也可以选择付出劳力才能离开监狱。</p><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.3</td><td align="center">CRO-Dev-Team</td><td align="left">从卡普拉第二银行扣款调整为卡普拉第一银行</td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.2</td><td align="center">CRO-Dev-Team</td><td align="left">稍微限制了条件</td></tr><tr><td align="center">v1.1</td><td align="center">CRO-Dev-Team</td><td align="left">英文翻译</td></tr><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 功能类 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」OX 益智问答</title>
+      <link href="/game/ro/npc/1000-ox/readme/"/>
+      <url>/game/ro/npc/1000-ox/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1000</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">OX 益智问答</td></tr><tr><td align="center">脚本类型</td><td align="left">活动类</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v1.0</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥500</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><p>经典多人在线活动:<br>  所有玩家每轮听题后、在限时内抢占「O」「X」区域，<br>  只有正确答案的区域才能进入下一关！<br>  谁能一直站到最后赢取大奖呢？</p><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">-</td><td align="center">-</td><td align="left">-</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 活动类 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」GM 空间传送</title>
+      <link href="/game/ro/npc/1006-warpgmroom/readme/"/>
+      <url>/game/ro/npc/1006-warpgmroom/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1006</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">GM 空间传送</td></tr><tr><td align="center">脚本类型</td><td align="left">传送类</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v1.0</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥100</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><p>传送到各个 GM 空间地图，包括内核、王座、殿外、花园、猎场、监狱，以便自定义分配各个封闭场所的权限</p><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">-</td><td align="center">-</td><td align="left">-</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 功能类 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」自动吃药</title>
+      <link href="/game/ro/npc/1007-autopot/readme/"/>
+      <url>/game/ro/npc/1007-autopot/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1007</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">自动吃药</td></tr><tr><td align="center">脚本类型</td><td align="left">功能类</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v1.0</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥500</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><p>玩家通过输入指令 <code>@autopot</code> 激活自动吃药功能，支持：</p><ul><li>自选背包回复道具</li><li>控制使用道具频率</li><li>到达设定的 HP 阈值下限时、自动使用回复道具</li></ul><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">-</td><td align="center">-</td><td align="left">-</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 功能类 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」福利鸡抽奖</title>
+      <link href="/game/ro/npc/1009-cluckers/readme/"/>
+      <url>/game/ro/npc/1009-cluckers/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1009</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">福利鸡抽奖</td></tr><tr><td align="center">脚本类型</td><td align="left">活动类</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v1.3</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥100</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><p>点击福利鸡并尝试以较低的价格取回物品。<br>如果你失败了，他会用核武器、冰冻、石头，昏迷，或者让你睡着。<br>奖品可配置并由 NPC 触发。</p><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.3</td><td align="center">CRO-Dev-Team</td><td align="left">把 <code>atcommand</code> 修正为 <code>unitskilluseid</code></td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.2</td><td align="center">CRO-Dev-Team</td><td align="left">脚本优化调整</td></tr><tr><td align="center">v1.1</td><td align="center">CRO-Dev-Team</td><td align="left">改用 <code>switch rand</code></td></tr><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 活动类 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」世界 BOSS 活动</title>
+      <link href="/game/ro/npc/1010-worldboss/readme/"/>
+      <url>/game/ro/npc/1010-worldboss/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1010</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">世界 BOSS 活动</td></tr><tr><td align="center">脚本类型</td><td align="left">活动类</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v3.5</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥1000</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><p>召唤随机世界 Boss，击败后获得宝藏。<br>领导者有权分配或处置战利品。<br>GM 面板：信息/开始/停止/跳过/拾取模式/修改。<br>Boss HP 每增加或减少 1,500,000，附近的玩家，每 10 秒更新一次。<br>当 boss 被击败时，它将触发增加的经验和将速率降低到整个服务器 1 小时（如果启用）。</p><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v3.5</td><td align="center">CRO-Dev-Team</td><td align="left">1. 译文校对<br>2. 强化世界 BOSS 清单<br>3. 丰富奖励道具</td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v3.4</td><td align="center">CRO-Dev-Team</td><td align="left">添加了 IP 检查</td></tr><tr><td align="center">v3.3</td><td align="center">CRO-Dev-Team</td><td align="left">在阵列中增加了战利品数量</td></tr><tr><td align="center">v3.2</td><td align="center">CRO-Dev-Team</td><td align="left">1. 改变了活动开始和宣布的方式<br>2. 固定 WorldBossRates，启用了 <code>use floating rates</code></td></tr><tr><td align="center">v3.1</td><td align="center">CRO-Dev-Team</td><td align="left">1. 禁用了雾效果<br>2. 活动无法启动时添加了更多通知<br>3. 在 OnMobDie 活动上添加了单元检查<br>4. 添加了 inarray 优化</td></tr><tr><td align="center">v3.0</td><td align="center">CRO-Dev-Team</td><td align="left">1. 添加了关闭 mapflags 的选项<br>2. 添加了更多默认值 <code>.MOB</code> 状态点<br>3. 修复随机奖励将只选择一次，以避免滥用（<code>$@WB REPAIR INDEX</code>）<br>4. 重命名了一些变量，使其更容易理解</td></tr><tr><td align="center">v2.9</td><td align="center">CRO-Dev-Team</td><td align="left">1. WorldBossRadar 启用/禁用选项<br>2. 增加了战利品模式 10，将所有奖励都给予所选队员<br>3. 增加了战利品模式 11，对选定的人员给予一次随机奖励</td></tr><tr><td align="center">v2.8</td><td align="center">CRO-Dev-Team</td><td align="left">1. 添加了 jump zero 优化<br>2. 固定 <code>WorldBossRates::OnInit</code> 首次在服务器上运行<br>3. 添加了 <code>$@WB ACCESS EXPIRE</code> 计时器。当访问阵列过期时清除它</td></tr><tr><td align="center">v2.7</td><td align="center">CRO-Dev-Team</td><td align="left">1. 移除了宝箱怪物<br>2. 增加了宝箱 NPC<br>3. 一次添加多个活动，但不在同一映射中<br>4. 增加战利品模式 8-9 给同一地图中的所有玩家所有/一个奖励<br>5. 在 boss 被终止活动后 1 小时内增加了两倍的服务器速率</td></tr><tr><td align="center">v2.6</td><td align="center">CRO-Dev-Team</td><td align="left">1. 增加了战利品模式 1，随机给一名人员一份奖励<br>2. 增加了战利品模式 4-5，对附近所有玩家及其队友给予全部/一份奖励<br>3. 增加了战利品模式 6-7，对附近所有玩家给予全部/一份奖励</td></tr><tr><td align="center">v2.5</td><td align="center">CRO-Dev-Team</td><td align="left">1. 增加了 NPC WorldBossRadar 来监控附近的玩家<br>2. 从宝箱中移除逃跑和完美闪避<br>3. 添加了停止活动的超时<br>4. 次要文本更改</td></tr><tr><td align="center">v2.4</td><td align="center">CRO-Dev-Team</td><td align="left">1. 添加了 GM 面板<br>2. 默认 mob 属性（<code>.mob 0</code>）<br>3. 同一方检查（奖励窃取）</td></tr><tr><td align="center">v2.3</td><td align="center">CRO-Dev-Team</td><td align="left">增加了更多战利品选项</td></tr><tr><td align="center">v2.2</td><td align="center">CRO-Dev-Team</td><td align="left">一些优化</td></tr><tr><td align="center">v2.1</td><td align="center">CRO-Dev-Team</td><td align="left">将单个随机奖励更改为随机所有奖励</td></tr><tr><td align="center">v2.0</td><td align="center">CRO-Dev-Team</td><td align="left">增加了奖励阵列：随机选择奖励</td></tr><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 活动类 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」任意 MVP BOSS 击杀事件</title>
+      <link href="/game/ro/npc/1014-killbossevent/readme/"/>
+      <url>/game/ro/npc/1014-killbossevent/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1014</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">任意 MVP BOSS 击杀事件</td></tr><tr><td align="center">脚本类型</td><td align="left">触发器</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v1.2</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥300</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><p>所有 MVP/BOSS 死亡后自动发送广播，并随机掉落自定义奖励物品</p><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.2</td><td align="center">CRO-Dev-Team</td><td align="left">所有 MVP BOSS 增加 以太星尘 掉落</td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.1</td><td align="center">CRO-Dev-Team</td><td align="left">所有 MVP BOSS 增加 Cash 券掉落</td></tr><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 触发器 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」BOSS 击杀广播</title>
+      <link href="/game/ro/npc/1011-bossbroadcast/readme/"/>
+      <url>/game/ro/npc/1011-bossbroadcast/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1011</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">BOSS 击杀广播</td></tr><tr><td align="center">脚本类型</td><td align="left">功能类</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v1.0</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥50</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><p>实时全服播报 BOSS 的击杀情况</p><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">-</td><td align="center">-</td><td align="left">-</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 功能类 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」广播电台</title>
+      <link href="/game/ro/npc/1012-broadcastclub/readme/"/>
+      <url>/game/ro/npc/1012-broadcastclub/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1012</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">广播电台</td></tr><tr><td align="center">脚本类型</td><td align="left">功能类</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v1.0</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥50</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><p>全服广播电台，支持组队/公会/征友/自定义广播</p><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">-</td><td align="center">-</td><td align="left">-</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 功能类 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」任意 MVP BOSS 死亡通告</title>
+      <link href="/game/ro/npc/1013-bossannounce/readme/"/>
+      <url>/game/ro/npc/1013-bossannounce/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1013</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">任意 MVP BOSS 死亡通告</td></tr><tr><td align="center">脚本类型</td><td align="left">触发器</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v1.0</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥100</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><p>  所有 MVP/BOSS 死亡后自动发送广播。</p><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">-</td><td align="center">-</td><td align="left">-</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 触发器 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」寻找蘑菇游戏</title>
+      <link href="/game/ro/npc/1008-mushroom/readme/"/>
+      <url>/game/ro/npc/1008-mushroom/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1008</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">寻找蘑菇游戏</td></tr><tr><td align="center">脚本类型</td><td align="left">活动类</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v1.2</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥100</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><p>找到蘑菇：<br>在随机地图中生成随机数量的蘑菇。<br>玩家需要找到这些蘑菇并杀死它们才能获得奖品！</p><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.2</td><td align="center">CRO-Dev-Team</td><td align="left">脚本优化调整</td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.1</td><td align="center">CRO-Dev-Team</td><td align="left">脚本重构，完善功能</td></tr><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 活动类 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」会走路的波利</title>
+      <link href="/game/ro/npc/1021-movepoli/readme/"/>
+      <url>/game/ro/npc/1021-movepoli/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1021</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">会走路的波利</td></tr><tr><td align="center">脚本类型</td><td align="left">功能类</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v1.0</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥100</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><p>移动的波利 NPC，和它对话会随机掉落物品哦 ~</p><blockquote><p>似乎是某个大型副本的关键 NPC 哦 ~</p></blockquote><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">-</td><td align="center">-</td><td align="left">-</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 功能类 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」WOE 控制器</title>
+      <link href="/game/ro/npc/1024-woe/readme/"/>
+      <url>/game/ro/npc/1024-woe/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1024</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">WOE 控制器</td></tr><tr><td align="center">脚本类型</td><td align="left">功能类</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v1.0</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥800</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><p>专为 War of Emperium （即 GVG）设计的控制器。</p><p>一定要禁用默认的 agit 控制器：</p><ul><li><code>npc/guild/agit_controller.txt</code></li><li><code>npc/guild2/agit_start_se.txt</code></li></ul><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">-</td><td align="center">-</td><td align="left">-</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 功能类 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」托尼老师</title>
+      <link href="/game/ro/npc/1023-stylist/readme/"/>
+      <url>/game/ro/npc/1023-stylist/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1023</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">托尼老师</td></tr><tr><td align="center">脚本类型</td><td align="left">功能类</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v1.0</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥800</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><p>支持功能：</p><ol><li>衣服染色</li><li>头发染色</li><li>改变发型</li><li>变性</li><li>职业幻化</li></ol><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">-</td><td align="center">-</td><td align="left">-</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 功能类 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」一键大师</title>
+      <link href="/game/ro/npc/1022-onekeymaster/readme/"/>
+      <url>/game/ro/npc/1022-onekeymaster/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1022</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">一键大师</td></tr><tr><td align="center">脚本类型</td><td align="left">功能类</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v1.0</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥200</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><p>支持功能：</p><ol><li>一键满状态（-100W）</li><li>一键超强状态（-500W）</li><li>一键全身鉴定（-1W）</li><li>一键全身修复（-10W）</li><li>一键精炼+10（-1E）</li><li>一键精炼+15（-8E）</li><li>一键精炼+20（-16E）</li><li>一键破产（0Z）</li><li>一键暗杀（-100W）</li></ol><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">-</td><td align="center">-</td><td align="left">-</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 功能类 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「仙境脚本」安全拆卡老妖婆</title>
+      <link href="/game/ro/npc/1018-dismountcard/readme/"/>
+      <url>/game/ro/npc/1018-dismountcard/readme/</url>
+      
+        <content type="html"><![CDATA[<h2 id="0x00-脚本信息"><a href="#0x00-脚本信息" class="headerlink" title="0x00 脚本信息"></a>0x00 脚本信息</h2><table><thead><tr><th align="center">脚本编号</th><th align="left">1018</th></tr></thead><tbody><tr><td align="center">脚本名称</td><td align="left">安全拆卡老妖婆</td></tr><tr><td align="center">脚本类型</td><td align="left">功能类</td></tr><tr><td align="center">适用系列</td><td align="left">rAthena 系列</td></tr><tr><td align="center">作者 &amp; 版权</td><td align="left">CRO-Dev-Team（随缘仙境开发团队）</td></tr><tr><td align="center">当前版本</td><td align="left">v1.0</td></tr></tbody></table><h2 id="0x10-交易方式"><a href="#0x10-交易方式" class="headerlink" title="0x10 交易方式"></a>0x10 交易方式</h2><table><thead><tr><th align="center"><font color="red">零售价</font></th><th align="left"><code>￥10</code></th></tr></thead><tbody><tr><td align="center">淘宝平台</td><td align="left">【<a href="TODO">商品链接</a>】</td></tr><tr><td align="center">支付宝</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">商家码（支持信用卡）</a>】</td></tr><tr><td align="center">现金转账</td><td align="left">【<a href="https://exppoc.gitee.io/sponsor/payment">个人码（微信/支付宝/QQ）</a>】</td></tr><tr><td align="center">海外付款</td><td align="left">【<a href="https://lyy289065406.github.io/sponsor/payment">Paypal</a>（暂未开放）】</td></tr></tbody></table><h2 id="0x20-脚本介绍"><a href="#0x20-脚本介绍" class="headerlink" title="0x20 脚本介绍"></a>0x20 脚本介绍</h2><p>安全拆除装备上的卡片</p><p><img src="#"></p><h2 id="0x30-实机演示"><a href="#0x30-实机演示" class="headerlink" title="0x30 实机演示"></a>0x30 实机演示</h2><iframe src="//player.bilibili.com/player.html?aid=xxxxxxxxx" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="0x40-版本记录"><a href="#0x40-版本记录" class="headerlink" title="0x40 版本记录"></a>0x40 版本记录</h2><table><thead><tr><th align="center">当前版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">v1.0</td><td align="center">CRO-Dev-Team</td><td align="left">创建</td></tr></tbody></table><details><summary><b>历史版本记录</b></summary><br><table><thead><tr><th align="center">历史版本</th><th align="center">作者</th><th align="left">升级内容</th></tr></thead><tbody><tr><td align="center">-</td><td align="center">-</td><td align="left">-</td></tr></tbody></table></details><h2 id="0x40-更多脚本"><a href="#0x40-更多脚本" class="headerlink" title="0x40 更多脚本"></a>0x40 更多脚本</h2><table><thead><tr><th align="center">线上门店</th><th align="center">传送门</th></tr></thead><tbody><tr><td align="center">仙境商城</td><td align="center">【<a href="https://store.ragnarok.buzz/">全球直连</a>】【<a href="https://casual-ragnarok.gitee.io/ro-store/">国内线路</a>】【<a href="https://casual-ragnarok.github.io/ro-store/">海外线路</a>】</td></tr><tr><td align="center">淘宝直营</td><td align="center">【<a href="https://shop198516620.taobao.com/?spm=a1z10.5-c-s.0.0.6ccd5b6aRXeJIo">缘续城</a>】</td></tr><tr><td align="center">Telegram</td><td align="center"><a href="https://t.me/CasualRagnarok">https://t.me/CasualRagnarok</a></td></tr></tbody></table><h2 id="0xFF-联系我们"><a href="#0xFF-联系我们" class="headerlink" title="0xFF 联系我们"></a>0xFF 联系我们</h2><table><thead><tr><th align="center">联系方式</th><th align="center">信息</th></tr></thead><tbody><tr><td align="center">QQ</td><td align="center">272629724</td></tr><tr><td align="center">Email</td><td align="center"><a href="mailto:272629724@qq.com">272629724@qq.com</a></td></tr><tr><td align="center">Wechat</td><td align="center"><img src="../../../../../images/contacts/CRO-CC.jpg"></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> NPC 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RO </tag>
+            
+            <tag> NPC 脚本 </tag>
+            
+            <tag> 功能类 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>

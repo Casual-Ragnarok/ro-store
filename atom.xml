@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>仙境商城</title>
+  
+  <subtitle>随缘仙境 匠心打造</subtitle>
+  <link href="https://store.ragnarok.buzz/atom.xml" rel="self"/>
+  
+  <link href="https://store.ragnarok.buzz/"/>
+  <updated>2023-03-12T03:55:08.399Z</updated>
+  <id>https://store.ragnarok.buzz/</id>
+  
+  <author>
+    <name>Casual-Ragnarok</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>「仙境脚本」NPC 清单合集</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npcs/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npcs/readme/</id>
+    <published>2023-03-03T16:00:00.000Z</published>
+    <updated>2023-03-12T03:55:08.399Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;触发器脚本&quot;&gt;&lt;a href=&quot;#触发器脚本&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」地图机遇事件</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1015-chanceevent/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1015-chanceevent/readme/</id>
+    <published>2022-12-17T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.354Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="触发器" scheme="https://store.ragnarok.buzz/tags/%E8%A7%A6%E5%8F%91%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」神奇泉水</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1019-fountain/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1019-fountain/readme/</id>
+    <published>2022-11-24T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.354Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="功能类" scheme="https://store.ragnarok.buzz/tags/%E5%8A%9F%E8%83%BD%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」城镇治愈师</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1020-healer/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1020-healer/readme/</id>
+    <published>2022-11-24T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.354Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="功能类" scheme="https://store.ragnarok.buzz/tags/%E5%8A%9F%E8%83%BD%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」装备洗炼系统</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1026-equippurify/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1026-equippurify/readme/</id>
+    <published>2022-11-04T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.354Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="功能类" scheme="https://store.ragnarok.buzz/tags/%E5%8A%9F%E8%83%BD%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」装备签名系统</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1025-equipsigner/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1025-equipsigner/readme/</id>
+    <published>2022-11-02T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.354Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="功能类" scheme="https://store.ragnarok.buzz/tags/%E5%8A%9F%E8%83%BD%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」卡普拉银行</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1016-bankkafra/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1016-bankkafra/readme/</id>
+    <published>2022-11-01T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.354Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="功能类" scheme="https://store.ragnarok.buzz/tags/%E5%8A%9F%E8%83%BD%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」GM 手册</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1001-gmbook/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1001-gmbook/readme/</id>
+    <published>2022-10-17T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.350Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="功能类" scheme="https://store.ragnarok.buzz/tags/%E5%8A%9F%E8%83%BD%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」卡 BUG 自助服务</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1017-bugselfsvc/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1017-bugselfsvc/readme/</id>
+    <published>2022-10-11T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.354Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="功能类" scheme="https://store.ragnarok.buzz/tags/%E5%8A%9F%E8%83%BD%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」玩家管理终端</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1002-playerterminal/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1002-playerterminal/readme/</id>
+    <published>2022-09-02T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.350Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="功能类" scheme="https://store.ragnarok.buzz/tags/%E5%8A%9F%E8%83%BD%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」查询职业代码</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1005-queyjob/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1005-queyjob/readme/</id>
+    <published>2022-09-02T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.350Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="功能类" scheme="https://store.ragnarok.buzz/tags/%E5%8A%9F%E8%83%BD%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」系统管理终端</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1003-serverterminal/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1003-serverterminal/readme/</id>
+    <published>2022-08-18T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.350Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="功能类" scheme="https://store.ragnarok.buzz/tags/%E5%8A%9F%E8%83%BD%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」监狱系统</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1004-prison/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1004-prison/readme/</id>
+    <published>2022-08-17T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.350Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="功能类" scheme="https://store.ragnarok.buzz/tags/%E5%8A%9F%E8%83%BD%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」OX 益智问答</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1000-ox/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1000-ox/readme/</id>
+    <published>2022-08-11T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.350Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="活动类" scheme="https://store.ragnarok.buzz/tags/%E6%B4%BB%E5%8A%A8%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」GM 空间传送</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1006-warpgmroom/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1006-warpgmroom/readme/</id>
+    <published>2022-08-11T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.350Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="功能类" scheme="https://store.ragnarok.buzz/tags/%E5%8A%9F%E8%83%BD%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」自动吃药</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1007-autopot/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1007-autopot/readme/</id>
+    <published>2022-08-11T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.350Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="功能类" scheme="https://store.ragnarok.buzz/tags/%E5%8A%9F%E8%83%BD%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」福利鸡抽奖</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1009-cluckers/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1009-cluckers/readme/</id>
+    <published>2022-08-11T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.350Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="活动类" scheme="https://store.ragnarok.buzz/tags/%E6%B4%BB%E5%8A%A8%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」世界 BOSS 活动</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1010-worldboss/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1010-worldboss/readme/</id>
+    <published>2022-07-23T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.354Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="活动类" scheme="https://store.ragnarok.buzz/tags/%E6%B4%BB%E5%8A%A8%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」任意 MVP BOSS 击杀事件</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1014-killbossevent/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1014-killbossevent/readme/</id>
+    <published>2022-07-12T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.354Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="触发器" scheme="https://store.ragnarok.buzz/tags/%E8%A7%A6%E5%8F%91%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」BOSS 击杀广播</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1011-bossbroadcast/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1011-bossbroadcast/readme/</id>
+    <published>2022-07-09T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.354Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="功能类" scheme="https://store.ragnarok.buzz/tags/%E5%8A%9F%E8%83%BD%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」广播电台</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1012-broadcastclub/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1012-broadcastclub/readme/</id>
+    <published>2022-07-09T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.354Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="功能类" scheme="https://store.ragnarok.buzz/tags/%E5%8A%9F%E8%83%BD%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」任意 MVP BOSS 死亡通告</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1013-bossannounce/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1013-bossannounce/readme/</id>
+    <published>2022-07-08T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.354Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="触发器" scheme="https://store.ragnarok.buzz/tags/%E8%A7%A6%E5%8F%91%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」寻找蘑菇游戏</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1008-mushroom/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1008-mushroom/readme/</id>
+    <published>2022-06-20T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.350Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="活动类" scheme="https://store.ragnarok.buzz/tags/%E6%B4%BB%E5%8A%A8%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」会走路的波利</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1021-movepoli/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1021-movepoli/readme/</id>
+    <published>2022-06-12T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.354Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="功能类" scheme="https://store.ragnarok.buzz/tags/%E5%8A%9F%E8%83%BD%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」WOE 控制器</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1024-woe/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1024-woe/readme/</id>
+    <published>2022-01-18T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.354Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="功能类" scheme="https://store.ragnarok.buzz/tags/%E5%8A%9F%E8%83%BD%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」托尼老师</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1023-stylist/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1023-stylist/readme/</id>
+    <published>2021-03-11T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.354Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="功能类" scheme="https://store.ragnarok.buzz/tags/%E5%8A%9F%E8%83%BD%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」一键大师</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1022-onekeymaster/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1022-onekeymaster/readme/</id>
+    <published>2020-07-21T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.354Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="功能类" scheme="https://store.ragnarok.buzz/tags/%E5%8A%9F%E8%83%BD%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「仙境脚本」安全拆卡老妖婆</title>
+    <link href="https://store.ragnarok.buzz/game/ro/npc/1018-dismountcard/readme/"/>
+    <id>https://store.ragnarok.buzz/game/ro/npc/1018-dismountcard/readme/</id>
+    <published>2019-09-15T16:00:00.000Z</published>
+    <updated>2023-03-12T03:54:46.354Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x00-脚本信息&quot;&gt;&lt;a href=&quot;#0x00-脚本信息&quot; class=&quot;headerlink&quot; title=&quot;0x00 脚本信息&quot;&gt;&lt;/a&gt;0x00</summary>
+        
+      
+    
+    
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/categories/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="RO" scheme="https://store.ragnarok.buzz/tags/RO/"/>
+    
+    <category term="NPC 脚本" scheme="https://store.ragnarok.buzz/tags/NPC-%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="功能类" scheme="https://store.ragnarok.buzz/tags/%E5%8A%9F%E8%83%BD%E7%B1%BB/"/>
+    
+  </entry>
+  
+</feed>
